@@ -22,6 +22,7 @@ def main() -> None:
 
 def get_book_text(path: str) -> str:
     """Opens a book file and reads all of its text into a string."""
+    #Error Handling:
     try:
         # Try to open the file at the given path and read it.
         with open(path) as f:
