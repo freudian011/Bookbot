@@ -12,11 +12,11 @@ This is a command tool I built in Python that takes a book file (.txt) and count
 
 Make sure you have Python 3 installed on your computer.
 
-1. Clone my repository to your machine:
+   Clone my repository to your machine:
    ```bash
    git clone <your-github-repository-url>
    ```
-2. Open up your terminal and jump into the project folder:
+   Open up your terminal and jump into the project folder:
    ```bash
    cd Bookbot
    ```
